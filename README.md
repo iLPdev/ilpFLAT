@@ -1,6 +1,6 @@
 # ilpFLAT
 >    Flat, Liquid, and Trendy:
->    A responsive and direct skeuominimalist design theme for concrete5
+>    A responsive and direct skeuominimalist designed theme for concrete5
 <div>
   <p align="center">
     <a href="theme_ilpFLAT/images/demo/logo-mask-2x.png">
