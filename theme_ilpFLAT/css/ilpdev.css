@@ -1,0 +1,6 @@
+.todo-profiles{position:relative;background:#2980b9 !important;background-size:16px 16px;border-radius:6px 6px 0 0;color:#34495e;padding:19px 25px 20px}.todo-profiles:before{position:absolute;font-family:'Flat-UI-Icons';content:"\e01d";font-size:16px;display:inline-block;top:50%;left:92%;margin:-0.5em 0 0 -1em}
+.todo-experience{position:relative;background:#2980b9 !important;background-size:16px 16px;border-radius:6px 6px 0 0;color:#34495e;padding:19px 25px 20px}.todo-experience:before{position:absolute;font-family:'Flat-UI-Icons';content:"\e022";font-size:16px;display:inline-block;top:50%;left:92%;margin:-0.5em 0 0 -1em}
+
+.todo li{background:#34495e;font-size:14px;line-height:1.214;margin-top:2px;padding:18px 42px 21px 25px;}.todo li:first-child{margin-top:0}
+.todo li:last-child{border-radius:0 0 6px 6px;padding-bottom:21px}
+.todo li.todo-done{background: transparent color:#2980b9}.todo li.todo-done .todo-name{color:#2980b9}
